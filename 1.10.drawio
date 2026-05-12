@@ -1,9 +1,39 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="3HQi2DL4TQ8bPgjvLxJj">
-    <mxGraphModel>
+    <mxGraphModel dx="1058" dy="483" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qMkc3d1i57CIzO2uKjCn-6" edge="1" parent="1" source="qMkc3d1i57CIzO2uKjCn-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="qMkc3d1i57CIzO2uKjCn-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMkc3d1i57CIzO2uKjCn-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="Inicio" vertex="1">
+          <mxGeometry height="60" width="100" x="73" y="376" as="geometry" />
+        </mxCell>
+        <mxCell id="qMkc3d1i57CIzO2uKjCn-7" edge="1" parent="1" source="qMkc3d1i57CIzO2uKjCn-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="qMkc3d1i57CIzO2uKjCn-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMkc3d1i57CIzO2uKjCn-2" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Leer mt" vertex="1">
+          <mxGeometry height="60" width="100" x="73" y="458" as="geometry" />
+        </mxCell>
+        <mxCell id="qMkc3d1i57CIzO2uKjCn-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="pulg = mt / 0.0254" vertex="1">
+          <mxGeometry height="40" width="128" x="59" y="537" as="geometry" />
+        </mxCell>
+        <mxCell id="qMkc3d1i57CIzO2uKjCn-4" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="Escribir pulg" vertex="1">
+          <mxGeometry height="60" width="100" x="73" y="596" as="geometry" />
+        </mxCell>
+        <mxCell id="qMkc3d1i57CIzO2uKjCn-5" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="Fin" vertex="1">
+          <mxGeometry height="60" width="100" x="73" y="675" as="geometry" />
+        </mxCell>
+        <mxCell id="qMkc3d1i57CIzO2uKjCn-8" edge="1" parent="1" source="qMkc3d1i57CIzO2uKjCn-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" target="qMkc3d1i57CIzO2uKjCn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qMkc3d1i57CIzO2uKjCn-9" edge="1" parent="1" source="qMkc3d1i57CIzO2uKjCn-4" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.497;exitY=0.808;exitDx=0;exitDy=0;exitPerimeter=0;" target="qMkc3d1i57CIzO2uKjCn-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="118" y="654" as="sourcePoint" />
+            <mxPoint x="168" y="604" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
