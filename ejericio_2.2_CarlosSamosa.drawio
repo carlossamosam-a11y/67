@@ -1,9 +1,39 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="m31yu4ZMnzOl6OA8OGYH">
-    <mxGraphModel>
+    <mxGraphModel dx="559" dy="829" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Pq2_uRbO5Lo3sdzEjVSv-8" edge="1" parent="1" source="Pq2_uRbO5Lo3sdzEjVSv-1" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Pq2_uRbO5Lo3sdzEjVSv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pq2_uRbO5Lo3sdzEjVSv-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Inicio" vertex="1">
+          <mxGeometry height="60" width="100" x="156.5" y="-268" as="geometry" />
+        </mxCell>
+        <mxCell id="Pq2_uRbO5Lo3sdzEjVSv-9" edge="1" parent="1" source="Pq2_uRbO5Lo3sdzEjVSv-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" target="Pq2_uRbO5Lo3sdzEjVSv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pq2_uRbO5Lo3sdzEjVSv-3" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Leer pesos, tipocambio" vertex="1">
+          <mxGeometry height="49" width="189" x="112" y="-179" as="geometry" />
+        </mxCell>
+        <mxCell id="Pq2_uRbO5Lo3sdzEjVSv-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Dolares = pesos/tipocambio" vertex="1">
+          <mxGeometry height="45" width="173" x="120" y="-101" as="geometry" />
+        </mxCell>
+        <mxCell id="Pq2_uRbO5Lo3sdzEjVSv-6" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" value="Dolares" vertex="1">
+          <mxGeometry height="60" width="100" x="156.5" y="-27" as="geometry" />
+        </mxCell>
+        <mxCell id="Pq2_uRbO5Lo3sdzEjVSv-7" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Fin" vertex="1">
+          <mxGeometry height="60" width="100" x="156.5" y="62" as="geometry" />
+        </mxCell>
+        <mxCell id="Pq2_uRbO5Lo3sdzEjVSv-10" edge="1" parent="1" source="Pq2_uRbO5Lo3sdzEjVSv-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" target="Pq2_uRbO5Lo3sdzEjVSv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Pq2_uRbO5Lo3sdzEjVSv-11" edge="1" parent="1" source="Pq2_uRbO5Lo3sdzEjVSv-6" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.498;exitY=0.887;exitDx=0;exitDy=0;exitPerimeter=0;" target="Pq2_uRbO5Lo3sdzEjVSv-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="206" y="27" as="sourcePoint" />
+            <mxPoint x="256" y="-23" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
